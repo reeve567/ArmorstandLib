@@ -22,7 +22,7 @@ dependencies {
     
     compileOnly(kotlin("stdlib-jdk8"))
     implementation("com.okkero.skedule:skedule:1.2.6")
-    compileOnly("org.bukkit:craftbukkit:1.19.2-R0.1-SNAPSHOT")
+    //compileOnly("org.bukkit:craftbukkit:1.19.2-R0.1-SNAPSHOT")
     compileOnly("org.spigotmc:spigot-api:1.19.2-R0.1-SNAPSHOT")
 }
 
